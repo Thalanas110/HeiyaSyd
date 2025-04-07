@@ -60,7 +60,7 @@ The love I dared not to conceive
 Was shining in your earthly eyes.`,
         gradientFrom: "rgba(109, 40, 217, 0.8)",
         gradientTo: "rgba(159, 122, 234, 0.8)",
-        publishedDate: "January 2024"
+        publishedDate: "April 2025"
       },
       {
         title: "Unang Usap, Pusong Lumipad",
@@ -87,7 +87,7 @@ Sa piling mo, lahat ay nag-iba—
 Dahil sa 'yo, ang mundo ko'y payapa.`,
         gradientFrom: "rgba(159, 122, 234, 0.8)",
         gradientTo: "rgba(249, 168, 212, 0.8)",
-        publishedDate: "January 2024"
+        publishedDate: "April 2025"
       },
       {
         title: "Depth Measured in Silence",
@@ -114,7 +114,7 @@ Time did not dull, but gave us grace—
 To know, to trust, to never hide.`,
         gradientFrom: "rgba(249, 168, 212, 0.8)",
         gradientTo: "rgba(109, 40, 217, 0.8)",
-        publishedDate: "February 2024"
+        publishedDate: "april 2025"
       },
       {
         title: "Ugnayang Maka-Diyos",
@@ -141,7 +141,7 @@ Sa bawat dasal at salita ng pananalig,
 Ang puso mo ang tahanan ng pag-ibig.`,
         gradientFrom: "rgba(109, 40, 217, 0.7)",
         gradientTo: "rgba(249, 168, 212, 0.7)",
-        publishedDate: "February 2024"
+        publishedDate: "April 2025"
       },
       {
         title: "When You First Said It",
@@ -168,7 +168,7 @@ You turned my dusk to sacred art,
 And made the stars themselves align.`,
         gradientFrom: "rgba(159, 122, 234, 0.7)",
         gradientTo: "rgba(109, 40, 217, 0.7)",
-        publishedDate: "March 2024"
+        publishedDate: "April 2025"
       },
       {
         title: "Tama sa Lahat ng Paraan",
@@ -195,7 +195,7 @@ Dahil sa piling mong may pagmamahal,
 Tama ka—ikaw ang aking tahanan.`,
         gradientFrom: "rgba(249, 168, 212, 0.7)",
         gradientTo: "rgba(159, 122, 234, 0.7)",
-        publishedDate: "March 2024"
+        publishedDate: "April 2025"
       },
       {
         title: "Every Version of You",
@@ -222,7 +222,7 @@ Nicole, my heart was built to know
 The love in you—the you inside.`,
         gradientFrom: "rgba(109, 40, 217, 0.6)",
         gradientTo: "rgba(159, 122, 234, 0.8)",
-        publishedDate: "March 2024"
+        publishedDate: "April 2025"
       },
       {
         title: "Sa Bawat Segundo, Ikaw",
@@ -249,7 +249,7 @@ Sapat na ang iyong mga mata—
 Upang mapawi ang bawat panimdim.`,
         gradientFrom: "rgba(159, 122, 234, 0.6)",
         gradientTo: "rgba(249, 168, 212, 0.8)",
-        publishedDate: "April 2024"
+        publishedDate: "April 2025"
       },
       {
         title: "One Last Name",
@@ -276,7 +276,7 @@ It's you beside me, face to face,
 When love has won its final fight.`,
         gradientFrom: "rgba(249, 168, 212, 0.6)",
         gradientTo: "rgba(109, 40, 217, 0.6)",
-        publishedDate: "April 2024"
+        publishedDate: "April 2025"
       },
       {
         title: "Pambihirang Ganda",
@@ -303,7 +303,7 @@ Ikaw ang awit ng puso kong payapa,
 Ang ganda mong di kayang itago.`,
         gradientFrom: "rgba(109, 40, 217, 0.5)",
         gradientTo: "rgba(249, 168, 212, 0.5)",
-        publishedDate: "April 2024"
+        publishedDate: "April 2025"
       },
       {
         title: "To Serve and Surrender",
@@ -330,7 +330,7 @@ If I must kneel to make it known,
 Then let me kneel and let you glow.`,
         gradientFrom: "rgba(159, 122, 234, 0.5)",
         gradientTo: "rgba(109, 40, 217, 0.5)",
-        publishedDate: "May 2024"
+        publishedDate: "April 2025"
       },
       {
         title: "Magkasamang Naglilingkod",
@@ -357,7 +357,7 @@ Maglilingkod tayo habang-buhay,
 Hanggang langit, sabay nating marating.`,
         gradientFrom: "rgba(249, 168, 212, 0.5)",
         gradientTo: "rgba(159, 122, 234, 0.5)",
-        publishedDate: "May 2024"
+        publishedDate: "April 2025"
       }
     ];
 
